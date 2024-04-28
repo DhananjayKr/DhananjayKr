@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DhananjayKr
+- I am a Full-stack developer
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Subjects related to Computer Science Engineering
 - 💞️ I’m looking to collaborate on projects related to Computer Science to get better  
